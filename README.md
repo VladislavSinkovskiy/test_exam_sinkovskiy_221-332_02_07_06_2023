@@ -12,6 +12,6 @@
 Выгрузка файлов проекта:
 git init
 git add *
-git commit -am "text" 
+git commit -am "exam_files" 
 git push 
 ```
