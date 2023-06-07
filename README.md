@@ -1,0 +1,1 @@
+# test_exam_sinkovskiy_221-332_02_07_06_2023
